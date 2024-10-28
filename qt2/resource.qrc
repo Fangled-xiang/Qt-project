@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>lol.jpg</file>
+    </qresource>
+    <qresource prefix="/logo">
+        <file>lol.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>style.qss</file>
+    </qresource>
+</RCC>

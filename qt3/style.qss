@@ -1,0 +1,9 @@
+QPushButton#pushButton_2 {border-image:url(:/icons/pause.png)}
+QPushButton#pushButton_2:hover {border-image:url(:/icons/play.png)}
+QPushButton#pushButton_2:checked {border-image:url(:/icons/play.png)}
+
+
+
+QRadioButton::indicator:unchecked{image:url(:/icons/pause.png)}
+QRadioButton::indicator:checked{image:url(:/icons/play.png)}
+QRadioButton{ font-size: 25px;color:black}
